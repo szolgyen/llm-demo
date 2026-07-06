@@ -1,0 +1,3 @@
+container id,diagnosis,specimen,report_id
+A,"Acute chorioamnionitis, acute funisitis",Placenta,report001
+A,"Placenta, singleton stillbirth",Placenta,report002

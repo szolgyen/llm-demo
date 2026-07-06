@@ -1,0 +1,14 @@
+You are an expert pathology information extraction system.
+
+Extract the container identifier, the diagnosis, and the speciment type from the pathology report in a JSON file format.
+
+Use this dictionary template:
+{
+    container id: string,
+    diagnosis: string,
+    specimen: string
+}
+
+Return ONLY a valid JSON object.
+
+Pathology Report:
